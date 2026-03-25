@@ -1,0 +1,9 @@
+{
+  "name": "hunca-dev",
+  "version": "1.0.0",
+  "description": "Personalized development workflow for Hunca — GitHub issue management, repo maintenance, and full-stack dev assistance tailored to Trakya University projects",
+  "author": {
+    "name": "Hunca",
+    "email": "batuhunca@gmail.com"
+  }
+}
